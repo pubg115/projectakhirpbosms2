@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/db_tubes_pbo.sql</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/build/built-jar.properties</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/controller/HomeAdminController.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/controller/Driver.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/controller/HomeSuperAdminController.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/controller/LoginController.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/model/Admin.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/model/Customer.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/model/HomeAdminModel.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/model/HomeSuperAdminModel.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/model/Koneksi.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/model/LoginModel.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/model/Person.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/model/Transaksi.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/view/AddAdminView.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/view/CariPelangganView.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/view/HomeAdminView.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/view/HomeSuperAdminView.java</file>
+            <file>file:/C:/Users/SATRIO/Downloads/Documents/projectakhirpbosms2/src/view/LoginView.java</file>
+        </group>
+    </open-files>
+</project-private>
